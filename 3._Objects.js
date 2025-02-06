@@ -3,7 +3,7 @@
 // --------------------------------------
 // Exercise 1 - Retrieve value from object by key
 
-const myObject = { message: "Hello, earthling! I bring peace." };
+const greetings = { message: "Hello, earthling! I bring peace." };
 
 // Log the message 
 

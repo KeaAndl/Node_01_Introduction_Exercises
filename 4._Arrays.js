@@ -63,7 +63,7 @@ const lettersExpanded = ["a", "b", "c", "d", "e", "f", "g", "h"];
 // --------------------------------------
 // Exercise 8 - For loop and if statement
 
-const numbers  = [5, 3, 2, 7, 11, 12, 0, -20, 6];
+const numbers = [5, 3, 2, 7, 11, 12, 0, -20, 6];
 
 const discardedNumbers = [];
 
